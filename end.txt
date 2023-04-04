@@ -1,1 +1,2 @@
-Start of git
+Adding copyright
+end of git
