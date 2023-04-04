@@ -1,3 +1,4 @@
+--Copy rights--
 Start of git
 Hello this is the modified start file
 This is a dup branch
