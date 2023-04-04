@@ -1,3 +1,5 @@
+This is edited in simple branch
+Using merging concept
 Test git demo
 this is hello
 
