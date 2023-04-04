@@ -1,1 +1,2 @@
+Using merging concept
 Test git demo
